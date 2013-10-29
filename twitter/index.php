@@ -58,7 +58,7 @@
         </div>
         <div class="lateral">
             <h2>Publicar</h2>
-            <form action="mensaje.php" method="post">
+            <form action="escribir.php" method="post">
                 Usuario: <input name="user" type="text"/> <br />
                 Contraseña: <input name="pass" type="password"/> <br />
                 Comentario: <textarea name="problema" rows="10" cols="10"> Escriba aqu&iacute;...</textarea><br/>
